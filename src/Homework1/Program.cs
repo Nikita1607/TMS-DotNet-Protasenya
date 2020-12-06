@@ -6,7 +6,7 @@ namespace Homework1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Nikita!");
+            Console.WriteLine("Hello, World");
         }
     }
 }

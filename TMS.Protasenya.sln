@@ -3,6 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3-datereaderMetod", "HW3-datereaderMetod\HW3-datereaderMetod.csproj", "{C9DB016D-5B10-4782-9B0F-A97E37FDCF2D}"
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "daterReader", "daterReader\daterReader.csproj", "{AA117DE7-529E-4873-95FB-57522EE548DF}"
 EndProject
 Global
@@ -11,6 +12,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9DB016D-5B10-4782-9B0F-A97E37FDCF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DB016D-5B10-4782-9B0F-A97E37FDCF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DB016D-5B10-4782-9B0F-A97E37FDCF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DB016D-5B10-4782-9B0F-A97E37FDCF2D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AA117DE7-529E-4873-95FB-57522EE548DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AA117DE7-529E-4873-95FB-57522EE548DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA117DE7-529E-4873-95FB-57522EE548DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
